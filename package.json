@@ -1,6 +1,5 @@
 {
   "name": "kasowitz",
-  "homepage": "https://myusername.github.io/kasowitz-i-p",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
